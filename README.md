@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently in my final year of software engineering at the University of Guelph.<br>💬 Ask me about my previous experience as a full-stack, DevOps, and solutions architect internships!<br>💡 I'm interested in learning more about cloud providers and AI (shoutout to ChatGPT).<br>⚡ Fun fact about me is that I can play the ukulele!
+🌱 I'm a software engineering new grad from University of Guelph currently working as an Associate Solutions Architect at AWS.<br>💬 Ask me about my previous full-stack, DevOps, and solutions architect internships!<br>💡 I'm interested in learning more about cloud providers and all things GenAI.<br>⚡ Fun fact about me is that I can play the ukulele!
 
 
 ## 🌐 Socials:
